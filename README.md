@@ -13,3 +13,4 @@ write a program to print all the prime numbers within a range
 problem statement - 4
 write a program to find given year is leap year or not
 <img width="1066" height="227" alt="image" src="https://github.com/user-attachments/assets/003cd291-9552-4746-991c-6fbc40d2a2d0" />
+
