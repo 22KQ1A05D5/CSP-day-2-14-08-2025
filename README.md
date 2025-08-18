@@ -14,3 +14,6 @@ problem statement - 4
 write a program to find given year is leap year or not
 <img width="1066" height="227" alt="image" src="https://github.com/user-attachments/assets/003cd291-9552-4746-991c-6fbc40d2a2d0" />
 
+problem statement - 5
+write a program to find the sum of the array
+<img width="1031" height="187" alt="image" src="https://github.com/user-attachments/assets/547d3f39-b06e-44b3-b128-435ed17a49d2" />
